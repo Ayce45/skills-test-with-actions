@@ -22,4 +22,4 @@ Developed and maintained various conference talks, online training, and in-perso
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
 
-```
+1) Hello, _Jupiter_ and *Neptune*!
